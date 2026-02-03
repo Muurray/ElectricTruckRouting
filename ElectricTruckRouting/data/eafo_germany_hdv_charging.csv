@@ -1,0 +1,11 @@
+Country,Latitude,Longitude,Power_kW,StationType,Operator
+Germany,53.0569,8.7920,350,Mixed,EnBW
+Germany,52.5200,13.4050,350,HDV,Fastned
+Germany,50.1109,8.6821,350,Mixed,IONITY
+Germany,51.2277,6.7735,350,Mixed,Aral Pulse
+Germany,48.1351,11.5820,350,HDV,Milence
+Germany,51.5136,7.4653,150,Mixed,EnBW
+Germany,52.3759,9.7320,750,HDV,Voltix
+Germany,51.0504,13.7373,300,Mixed,Fastned
+Germany,49.0069,8.4037,750,HDV,Milence
+Germany,48.7758,9.1829,350,Mixed,EnBW
